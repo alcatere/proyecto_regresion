@@ -1,0 +1,5 @@
+# Notebooks
+.ipynb_checkpoints/
+
+# Virtual env
+job_predicion_venv/
