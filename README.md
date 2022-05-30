@@ -1,5 +1,5 @@
-## Primer proyecto de regresion
+## First regression project
 
-Este proyecto lo realice con el motivo de fortalecer mis conocimientos de regresion y fortalecer lo que he aprendido
-en cursos anteriores, tambien de como utizar la librerias de scikit-learn para temas de regresion, asi como diversos
-analisis que realice a la base de datos.
+I did this project with the purpose of strengthening my knowledge in regression and to consolidating what I have learned
+in previous courses, also how to use the scikit-learn libraries for regression topics, as well as various
+analysis performed on the database.
